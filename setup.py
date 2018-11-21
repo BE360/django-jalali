@@ -15,5 +15,5 @@ setup(
     license='Python Software Foundation License',
     platforms='any',
     install_requires=["jdatetime>=1.5", "django>=1.7"],
-    long_description=open('README.rst').read()
+    #long_description=open('README.rst').read()
 )
